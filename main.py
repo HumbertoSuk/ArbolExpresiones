@@ -1,7 +1,7 @@
 """
 @Author: Humberto Lopez
-@Author: Kevin 
-@Author: 
+@Author: Kevin Fausto
+@Author: Eryon Velasco
 
 Ejecucion del programa principal
 """
